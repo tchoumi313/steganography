@@ -1,0 +1,15 @@
+
+cycler
+decorator
+matplotlib
+networkx
+numpy
+olefile
+Pillow
+pyparsing
+python-dateutil
+pytz
+PyWavelets
+scikit-image
+scipy
+six
